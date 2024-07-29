@@ -17,9 +17,11 @@ for i, job_title in enumerate(job_titles):
 
 plt.show()
 
+
 ## Results
 
 ![Visualization of Top skills for Data Nerds](3_Project\Images\Skill_demand_All_Data_Roles.png)
+
 
 ## Insights
 
