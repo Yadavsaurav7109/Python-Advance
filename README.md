@@ -1,3 +1,19 @@
+# Overview
+
+Welcome to my analysis of the data job market, with a focus on data analyst roles. This project was born out of a desire to navigate and understand the job market more effectively. It delves into the top-paying and in-demand skills to help identify optimal job opportunities for data analysts.
+
+The data for this analysis was sourced from Luke Barousse's Python Course, which provides a foundation containing detailed information on job titles, salaries, locations, and essential skills. Through a series of Python scripts, I explore key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
+
+# Tools I Used
+
+1. Python: The backbone of my analysis, allowing me to analyze the data and find critical insights.I also used the following Python libraries:
+2. Pandas Library: This was used to analyze the data.
+Matplotlib Library: I visualized the data.
+3. Seaborn Library: Helped me create more advanced visuals.
+4. Jupyter Notebooks: The tool I used to run my Python scripts which let me easily include my notes and analysis.
+5. Visual Studio Code: My go-to for executing my Python scripts.
+6. Git & GitHub: Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
+
 # The Analysis
 
 ## 1. What are the most demanded skills for the top 3 most popular data roles?
@@ -171,3 +187,13 @@ A scatter plot visualizing the most optimal skills (high paying & high demand) f
 2. The database skills (colored orange), such as Oracle and SQL Server, are associated with some of the highest salaries among data analyst tools. This indicates a significant demand and valuation for data management and manipulation expertise in the industry.
 
 3. Analyst tools (colored green), including Tableau and Power BI, are prevalent in job postings and offer competitive salaries, showing that visualization and data analysis software are crucial for current data roles. This category not only has good salaries but is also versatile across different types of data tasks.
+
+# What I Learned
+
+ Throughout this project, I deepened my understanding of the data analyst job market and enhanced my technical skills in Python, especially in data manipulation and visualization. Here are a few specific things I learned:
+
+1. Advanced Python Usage: Utilizing libraries such as Pandas for data manipulation, Seaborn and Matplotlib for data visualization, and other libraries helped me perform complex data analysis tasks more efficiently.
+
+2. Data Cleaning Importance: I learned that thorough data cleaning and preparation are crucial before any analysis can be conducted, ensuring the accuracy of insights derived from the data.
+
+3. Strategic Skill Analysis: The project emphasized the importance of aligning one's skills with market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry.
